@@ -15,7 +15,8 @@ I am a Full-stack Web and Mobile Developer.
 *   ⚡  I have experience in video production<a href="https://www.github.com/Goretzky" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/Goretzky?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/KernGoretzky" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitter/follow/KernGoretzky?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-                /></a>### Skills 
+                /></a>
+Skills 
 <p align="left">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -39,7 +40,7 @@ I am a Full-stack Web and Mobile Developer.
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
                     
-                  ### Socials
+                  Socials
                   
                   
                 <p align="left">
