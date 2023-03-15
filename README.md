@@ -7,9 +7,9 @@ Full-Stack Web & Mobile Developer
 I am a Full-stack Web and Mobile Developer.
 
 *   🌍  I'm based in Toronto
-*   🖥️  See my portfolio at [MyPortfolio](http://kerngoretzky.com/)
+*   🖥️  See my portfolio at [kerngoretzky.com](http://kerngoretzky.com/)
 *   ✉️  You can contact me at [kern.goretzky@gmail.com](mailto:kern.goretzky@gmail.com)
-*   🚀  I'm currently working on [CoderLeaf](http://coderleaf.com)
+*   🚀  I'm currently working on [CoderLeaf.com](http://coderleaf.com)
 *   🧠  I'm learning NestJS
 *   🤝  I'm open to collaborating on projects
 *   ⚡  I have experience in video production
