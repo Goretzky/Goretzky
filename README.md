@@ -12,7 +12,7 @@ I am a Full-stack Web and Mobile Developer.
 *   🚀  I'm currently working on [CoderLeaf.com](http://coderleaf.com)
 *   🧠  I'm learning NestJS
 *   🤝  I'm open to collaborating on projects
-*   ⚡  I have experience in video production
+*   ⚡  I have experience in video production, have a solid understanding of financial markets, and am familiar with start-ups
 
 ### Skills 
 <p align="left">
