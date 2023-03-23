@@ -11,8 +11,8 @@ I am a Full-stack Web and Mobile Developer.
 *   ✉️  You can contact me at [kern.goretzky@gmail.com](mailto:kern.goretzky@gmail.com)
 *   🚀  I'm currently working on [CoderLeaf.com](http://coderleaf.com)
 *   🧠  I'm learning NestJS
-*   🤝  I'm open to collaborating on projects
-*   ⚡  I have experience in video production, have a solid understanding of financial markets, and am familiar with start-ups
+*   🤝  I'm open to collaborating on projects or startups
+*   ⚡  I have experience in video production and financial markets
 
 ### Skills 
 <p align="left">
