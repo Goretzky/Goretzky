@@ -5,7 +5,7 @@ Full-Stack Developer
 I've been coding for over 10 years. I am open to new opportunities: startups, freelancing, part-time work, or full-time positions.  
 * 🌍  I'm based in Toronto, Ontario, Canada.
 * ✉️  You can contact me at [kern.goretzky@gmail.com](mailto:kern.goretzky@gmail.com)
-* 🚀  I'm currently working on [kerngoretzky.ca](http://kerngoretzky.com)
+* 🚀  I'm currently working on [kerngoretzky.com](http://kerngoretzky.com)
 * 🧠  I'm learning SwiftUI.
 * 🤝  I'm open to collaborating on Angular, React, or iOS projects.
 * ⚡  Other interests include finance, embedded systems, and DevOps.
